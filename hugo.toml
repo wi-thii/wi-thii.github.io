@@ -1,0 +1,20 @@
+baseURL = 'https://wi-thii.github.io/'
+languageCode = 'en-us'
+title = 'Wi-Thii'
+theme = 'ananke'
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = 'en-us'
+    languageName = 'English'
+    weight = 0
+
+  [languages.ru]
+    disabled = false
+    languageCode = 'ru-ru'
+    languageName = 'Русский'
+    weight = 10
+
+[params]
+    background_color_class = 'bg-navy'
