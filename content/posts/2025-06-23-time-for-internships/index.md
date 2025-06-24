@@ -1,4 +1,7 @@
-# Time for Internships
+---
+featured_image: image.jpg
+title: Time for Internships
+---
 
 As part of the “Rational Work” internship, I need to reflect and choose time for work sessions.
 
