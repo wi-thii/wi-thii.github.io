@@ -1,8 +1,8 @@
-+++
-date = '2025-06-24T16:47:01Z'
-title = 'My Expectations from the Rational Work Internship'
+---
+date: '2025-06-24T16:47:01Z'
+title: 'My Expectations from the Rational Work Internship'
 featured_image: image.jpg
-+++
+---
 
 My Expectations from the Rational Work Internship
 

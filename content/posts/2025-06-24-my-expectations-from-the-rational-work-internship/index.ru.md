@@ -1,8 +1,8 @@
-+++
-date = '2025-06-24T16:47:01Z'
-title = 'Мои ожидания от стажировки Рациональная работа'
+---
+date: '2025-06-24T16:47:01Z'
+title: 'Мои ожидания от стажировки Рациональная работа'
 featured_image: image.jpg
-+++
+---
 
 Читаю раздел [Что нужно знать для успешного применения руководства](https://docs.aisystant.com/ru/rational-work/what-you-need-to-know-for-successful-guide-application.html) Рациональной работы.
 
