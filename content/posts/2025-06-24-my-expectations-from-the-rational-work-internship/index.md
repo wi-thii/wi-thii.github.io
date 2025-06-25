@@ -4,9 +4,7 @@ title: 'My Expectations from the Rational Work Internship'
 featured_image: image.jpg
 ---
 
-My Expectations from the Rational Work Internship
-
-Reading the section What You Need to Know for Successful Guide Application from the Rational Work guide.
+Reading the section [What You Need to Know for Successful Guide Application from the Rational Work](https://docs.aisystant.com/ru/rational-work/what-you-need-to-know-for-successful-guide-application.html) guide.
 
 It invites me to reflect on two questions (apart from the ones I already covered in a previous post):
 	- Why do I even want to go through this internship? What results am I expecting?
