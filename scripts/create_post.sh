@@ -1,7 +1,9 @@
 #!/bin/bash
 
-hugo new posts/$(date +%Y-%m-%d)-$1/index.md
-hugo new posts/$(date +%Y-%m-%d)-$1/index.ru.md
+slug=`echo "$1" | iconv -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g;s/^-+|-+$//g'`
 
-code content/posts/$(date +%Y-%m-%d)-$1/index.md
-code content/posts/$(date +%Y-%m-%d)-$1/index.ru.md
+hugo new posts/$(date +%Y-%m-%d)-$slug/index.md
+hugo new posts/$(date +%Y-%m-%d)-$slug/index.ru.md
+
+code content/posts/$(date +%Y-%m-%d)-$slug/index.md
+code content/posts/$(date +%Y-%m-%d)-$slug/index.ru.md
